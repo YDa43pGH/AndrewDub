@@ -27,9 +27,9 @@
 ### 🛠 Технологический стек
 
 #### Разработка и фреймворки
- — **ASP.NET Core**, **AvaloniaUI**, WPF, WinForms
- — Автоматизация, парсинг, боты (**Aiogram**, **Django**)
- — Нативная мобильная разработка (**Jetpack Compose**)
+ - **ASP.NET Core**, **AvaloniaUI**, WPF, WinForms
+ - Автоматизация, парсинг, боты (**Aiogram**, **Django**)
+ - Нативная мобильная разработка (**Jetpack Compose**)
 
 #### Инфраструктура и инструменты
 -  **СУБД:** PostgreSQL, SQLite
